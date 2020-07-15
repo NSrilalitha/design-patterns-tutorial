@@ -15,14 +15,20 @@ Java design patterns are divided into 3 categories:
     3. Behavioral
     
 Creational Design Patterns :
+-----------------------------
 
 Singleton Pattern, Factory Pattern, Abstract Factory Pattern, Builder Pattern, Prototype Pattern
 
+Read about Singleton Pattern in below link:
+https://medium.com/@kevalpatel2106/digesting-singleton-design-pattern-in-java-5d434f4f322#:~:text=If%20yes%2C%20then%20our%20method,is%20called%20as%20Lazy%20initialization.&text=We%20all%20know%20that%20in,key%20have%20to%20be%20equal.
+
 Structural Design Patterns : 
+-----------------------------
 
 Adapter Pattern, Composite Pattern, Proxy Pattern, Flyweight Pattern, Facade Pattern, Bridge Pattern, Decorator Pattern
 
 Behavioral Design Patterns : 
+-----------------------------
 
 Template Method Pattern, Mediator Pattern, Chain of Responsibility Pattern, Observer Pattern, Strategy Pattern, Command Pattern, State Pattern, Visitor Pattern, Interpreter Pattern, Iterator Pattern, Memento Pattern
 
